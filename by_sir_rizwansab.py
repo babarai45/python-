@@ -14,7 +14,6 @@ print(x) # 0
 a,*b=10,20,40,50
 print(a) # 10
 print(b) # [20, 40, 50] # *b is a list
-
 # float data type (float)
 # float is a number, positive or negative, containing one or more decimals.
 # float data type can be represented in three ways
@@ -66,3 +65,5 @@ print(b) # [20.5, 40.5, 50.5] # *b is a list
 # 29. Python Web2Py Framewor
 ###############################################only chalanges not answer#####################33333333
 # python numeric datatype challenges python  problems 40 complex problems only include related just int ,float,bool,complex each of 10 ? 
+# python string datatype challenges python  problems 40 complex problems only include related just str each of 10 ?
+#####################
